@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **RUST**
 
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+- 💬 Ask me about **Blockchain, Defi, Cross-chain, System Design**
 
 &emsp;
 
