@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh</h1>
-
-&emsp;
 <h3 align="left">Hi 👋, I'm Suryansh, a Blockchain Engineer with a passion for building decentralized financial systems using cutting-edge technologies. With several years of experience in the field, I have been at the forefront of developing innovative solutions that are disrupting the traditional financial system. I believe that the future of finance lies in decentralization, and I am committed to working towards this vision by creating robust, secure, and transparent systems</h3>
-&emsp;
-
--------------------
 &emsp;
 
 ## 🛠️ My Skills
