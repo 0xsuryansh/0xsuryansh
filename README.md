@@ -7,15 +7,6 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working with a Defi Protocol. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 I’m currently learning **RUST**
-
-- 💬 Ask me about **Blockchain, Defi, Cross-chain, System Design**
-
-&emsp;
-
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
