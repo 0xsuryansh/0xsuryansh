@@ -59,7 +59,7 @@
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![Suryansh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=suryanshsh&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
