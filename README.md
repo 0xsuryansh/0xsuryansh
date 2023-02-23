@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh</h1>
-<h3 align="left">With several years of experience in Blockchian, I have been at the forefront of developing innovative solutions that are disrupting the traditional financial system. I believe that the future of finance lies in decentralization, and I am committed to working towards this vision by creating robust, secure, and transparent systems</h3>
+<h3 align="left">With several years of experience in Blockchian and Backend, I have been at the forefront of developing innovative solutions that are disrupting the traditional financial system. I believe that the future of finance lies in decentralization, and I am committed to working towards this vision by creating robust, secure, and transparent systems</h3>
 &emsp;
 
 ## 🛠️ My Skills
