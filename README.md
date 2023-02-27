@@ -36,12 +36,12 @@
 
 ## 📈 My GitHub Stats and Activity
 
-### 💻 Profile Stats
+<!-- ### 💻 Profile Stats
 
 <p align="center">
   <img alt="Suryansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chainchampion&show_icons=true&theme=radical">
 </p>
-
+ -->
 
 
 ### 🔥 Streak Stats
