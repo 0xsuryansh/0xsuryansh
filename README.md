@@ -33,7 +33,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 &emsp;
-
+<!-- 
 ## 📈 My GitHub Stats and Activity
 
 <!-- ### 💻 Profile Stats
@@ -52,3 +52,4 @@
 
 <img alt="Suryansh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=chainchampion&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />\
 
+ -->
