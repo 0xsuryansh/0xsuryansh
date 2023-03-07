@@ -33,23 +33,3 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 &emsp;
-<!-- 
-## 📈 My GitHub Stats and Activity
-
-<!-- ### 💻 Profile Stats
-
-<p align="center">
-  <img alt="Suryansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chainchampion&show_icons=true&theme=radical">
-</p>
- -->
-
-
-### 🔥 Streak Stats
-
-![Suryansh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=chainchampion&theme=tokyonight)
-
-### 📊 Contribution Stats
-
-<img alt="Suryansh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=chainchampion&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />\
-
- -->
