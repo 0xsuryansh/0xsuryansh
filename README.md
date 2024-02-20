@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Suryansh</h1>
-<h3 align="left">Software & Protocol Engineer | Distributed Systems & Blockchain (EVM, Interoperability & Intents) | Ex - Paytm, ICICL | Codeforces (max. specialist, 1593)</h3>
+<h3 align="center">Hi 👋, I'm Suryansh</h3>
+<h4 align="left">Software & Protocol Engineer | Distributed Systems & Blockchain (EVM, Interoperability & Intents) | Ex - Paytm, ICICL | Codeforces (max. specialist, 1593)</h4>
+
+> Currently learning Rust 🦀
+
 &emsp;
 
 ## 🛠️ My Skills
