@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Suryansh</h3>
-<h4 align="left">Software & Protocol Engineer | Distributed Systems & Blockchain (EVM, Interoperability & Intents) | Ex - Paytm, ICICL | Codeforces (max. specialist, 1593)</h4>
+<h4 align="left">Software & Protocol Engineer | Distributed Systems & Blockchain (EVM, Interoperability & Intents) | Ex - Amazon Ads, Paytm | Codeforces (max. specialist, 1593)</h4>
 
 > Currently learning Rust 🦀
 
